@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goss-yandex-cloud-frontend/static/css/main.2a96826a.css",
+    "main.js": "/goss-yandex-cloud-frontend/static/js/main.c154f859.js",
+    "index.html": "/goss-yandex-cloud-frontend/index.html",
+    "main.2a96826a.css.map": "/goss-yandex-cloud-frontend/static/css/main.2a96826a.css.map",
+    "main.c154f859.js.map": "/goss-yandex-cloud-frontend/static/js/main.c154f859.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a96826a.css",
+    "static/js/main.c154f859.js"
+  ]
+}
